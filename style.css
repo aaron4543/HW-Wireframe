@@ -1,0 +1,52 @@
+body.body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #black;
+    background: #777;
+    width: 960px;
+    font-size: 24px;
+
+}
+header.header {
+    background: #ebebeb;
+    text-align: center;
+    height: 90px;
+    
+}
+p2.p2 {
+    color: #777;
+    background: #ebebeb;
+}
+h1.h1 {
+    color: #777;
+    background: #ebebeb;
+}
+nav.nav {
+    background: #ebebeb;
+    text-align: center;
+    height: 90px;
+    
+}
+section.section1 {
+    float: left;
+    background: #ebebeb;
+    width: 495px;
+}
+aside.Aside {
+    float: right;
+    right: 0px;
+    margin: 0 1.5%;
+    background: #ebebeb;
+    
+}
+article.Article1 {
+    color: #ebebeb;
+    background: #777
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
